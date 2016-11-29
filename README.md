@@ -1,1 +1,1 @@
-This is a small, local API using TCP sockets and a server to demonstrate how a basic client and server interact with one another.
+Basic server that processes GET and POST requests from a web client.
